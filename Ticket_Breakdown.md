@@ -18,6 +18,6 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 ## Your Breakdown Here
  
 - Get all the shifts from a facility with `getShiftsByFacility` function
-- Normalize the data by adding the users customid 
-- Call the generateReport function with the new list of shifts
-- `generateReport` function should be refactored to accept the list of shifts with the new customid field. 
+- Normalize the data by adding the users `customid `
+- Call the `generateReport` function with the new list of shifts
+- `generateReport` function should be refactored to accept the list of shifts with the new `customid` field. 
